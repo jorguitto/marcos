@@ -1,0 +1,13 @@
+body {
+  height: 1550px;
+  background-image: url("FONDO.jpg");
+background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+img {
+  width: 325px;
+  
+}
+
+
