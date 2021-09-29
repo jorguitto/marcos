@@ -1,0 +1,41 @@
+* {
+    margin:0;
+    padding:0;
+        
+     
+}
+
+/*Estilos Generales*/
+.button {
+    background: #FFFFFF;
+    color:#008000;
+    display: inline-block;
+    font-size: 1.25em;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: #FFFFFF;
+    box-shadow:0px 3px 0px #FFFFFF;
+    border: 1px solid black;
+}
+
+.button span {
+    margin-right:10px;
+}
+
+/*Colores*/
+.button.blue {
+    background: #FFFFFF;
+    box-shadow:0px 3px 0px #FFFFFF;
+    border-color: black;
+}
+
+.button.green {
+    background: d#FFFFFF;
+    box-shadow:0px 3px 0px #FFFFFF;
+    border-color: black;
+}
+
+/*Tamaños*/
+.button.medium {
+    width:350px;
+}
